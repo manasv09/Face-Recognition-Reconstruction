@@ -12,7 +12,7 @@
 ![Reconstrcuted Faces](/Results/Reconstruction/face.png)
 
 - Datasets used-
--- [ORL Database](https://drive.google.com/file/d/1AeSEkzByEfv2L9Zm-xwV7d49RrlbAjRg/view?usp=sharing)
--- [Cropped Yale Database](https://drive.google.com/file/d/1lJGqYh8YjsGVKVVGqX-M2uJhAsE19Ugd/view?usp=sharing)
+- - [ORL Database](https://drive.google.com/file/d/1AeSEkzByEfv2L9Zm-xwV7d49RrlbAjRg/view?usp=sharing)
+- - [Cropped Yale Database](https://drive.google.com/file/d/1lJGqYh8YjsGVKVVGqX-M2uJhAsE19Ugd/view?usp=sharing)
 
 
