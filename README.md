@@ -2,7 +2,7 @@
 
 - Author: Manas Vashistha
 
-PCA based approach for Face Recognition and, Face reconstruction using eigen faces.
+- PCA based approach for Face Recognition and, Face reconstruction using eigen faces.
 
 - The Eigen Faces extracted from the dataset att dataset-
 
