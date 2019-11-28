@@ -4,7 +4,7 @@
 
 - PCA based approach for Face Recognition and, Face reconstruction using eigen faces.
 
-- The Eigen Faces extracted from the dataset att dataset-
+- The Eigen Faces extracted from the ORL dataset-
 
 ![EigenFaces](/Results/Reconstruction/eigenfaces.png)
 
